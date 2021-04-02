@@ -1,0 +1,30 @@
+.top-container{
+  background-color: #5f939a;
+}
+.middle-container {
+}
+.bottom-container{
+}
+body{
+  margin: 0;
+}
+h1{
+  margin: 0 520px;
+  font-family: sacramento , cursive ;
+}
+h2{
+  margin: 0 500px;
+  font-family: arial , sans-serif;
+}
+.mountain{
+  position: relative;
+  margin-left: 340px;
+}
+.top-cloud{
+  position: absolute;
+  margin-left: 800px;
+}
+.bottom-cloud{
+  position: absolute;
+  margin-left: 200px;
+}
